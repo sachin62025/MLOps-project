@@ -1,4 +1,3 @@
-checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'github-token', url: 'https://github.com/sachin62025/MLOps-project.git']])
 
 pipline{
     agent any
