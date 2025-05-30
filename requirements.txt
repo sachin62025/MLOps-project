@@ -8,3 +8,4 @@ requests
 imbalanced-learn
 lightgbm
 mlflow
+# Optional dependencies for additional functionality
