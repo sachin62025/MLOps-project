@@ -2,3 +2,4 @@ venv/
 mlruns/
 logs/
 MLOPS_PROJECT.egg-info/
+.txt
